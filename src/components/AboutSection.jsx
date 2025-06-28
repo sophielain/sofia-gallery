@@ -12,7 +12,7 @@ export default function AboutSection() {
         <a href="#" className="inline-block border border-black py-2 px-6 rounded hover:bg-black hover:text-white transition">About Me</a>
       </div>
       <div className="lg:w-1/2">
-        <img src="../images/about.jpg" alt="About" className="w-full rounded-lg shadow-lg object-cover h-96" />
+        <img src="/images/about.jpg" alt="About" className="w-full rounded-lg shadow-lg object-cover h-96" />
       </div>
     </section>
   );

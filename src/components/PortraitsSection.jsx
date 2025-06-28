@@ -10,8 +10,8 @@ export default function PortraitsSection() {
             <a href="#" className="inline-block border border-black py-2 px-6 rounded hover:bg-black hover:text-white transition">See Portraits Collection</a>
           </div>
           <div className="grid gap-4 grid-cols-2">
-            <img src="../images/port1.jpg" alt="Portrait 1" className="w-full h-48 object-cover rounded-lg shadow" />
-            <img src="../images/port2.jpg" alt="Portrait 2" className="w-full h-48 object-cover rounded-lg shadow" />
+            <img src="/images/port1.jpg" alt="Portrait 1" className="w-full h-48 object-cover rounded-lg shadow" />
+            <img src="/images/port2.jpg" alt="Portrait 2" className="w-full h-48 object-cover rounded-lg shadow" />
           </div>
         </div>
       </div>
