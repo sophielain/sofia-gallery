@@ -1,9 +1,9 @@
 import React from 'react';
 const products = [
-  { title: 'Floral Reverie II', type: 'Framed Prints', price: '40.00€ – 60.00€', image: '/images/pop1.jpg' },
-  { title: 'Dance Of Colors', type: 'Canvas Prints', price: '40.00€ – 60.00€', image: '/images/pop2.jpg' },
-  { title: 'Modern Oasis', type: 'Framed Prints', price: '40.00€ – 60.00€', image: '/images/pop3.jpg' },
-  { title: 'Floral Reverie', type: 'Framed Prints', price: '40.00€ – 60.00€', image: '/images/pop4.jpg' },
+  { title: 'Floral Reverie II', type: 'Framed Prints', price: '40.00€ – 60.00€', image: '/images/pop1.jpeg' },
+  { title: 'Dance Of Colors', type: 'Canvas Prints', price: '40.00€ – 60.00€', image: '/images/pop2.jpeg' },
+  { title: 'Modern Oasis', type: 'Framed Prints', price: '40.00€ – 60.00€', image: '/images/pop3.jpeg' },
+  { title: 'Floral Reverie', type: 'Framed Prints', price: '40.00€ – 60.00€', image: '/images/pop4.jpeg' },
 ];
 
 export default function MostPopular() {
