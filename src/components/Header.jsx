@@ -12,8 +12,8 @@ export default function Header() {
           <a href="#contact" className="hover:underline">Contact</a>
         </nav>
         <div className="flex items-center space-x-4">
-          <button aria-label="Search">{/* SVG aquí */}</button>
-          <button aria-label="Cart">{/* SVG aquí */}</button>
+          <button aria-label="Search"></button>
+          <button aria-label="Cart"></button>
         </div>
       </div>
     </header>
